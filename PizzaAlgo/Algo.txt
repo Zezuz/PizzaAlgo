@@ -1,2 +1,6 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+3. Decide which type of toppings,
+4. Ask for more Cheese
+5. Ask them to draw something on the box
+6. Still Hungry? See step 1
